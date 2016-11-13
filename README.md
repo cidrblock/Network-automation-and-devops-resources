@@ -58,10 +58,29 @@ What will I learn in this tutorial? You will learn how to use Ansible to configu
 
 https://www.katacoda.com/jonatanblue/scenarios/1
 
-Here I'll show how easy it is to get started with Anible. We'll start basic and then add in more features as we improve upon our configurations.
+Here I'll show how easy it is to get started with Ansible. We'll start basic and then add in more features as we improve upon our configurations.
 
 https://serversforhackers.com/an-ansible-tutorial
 
+This course will show you how to get started with automation and orchestration using the open-source tool Ansible version 1.x. Many hands-on demos are included to show how to implement your automation tasks.
+
+https://app.pluralsight.com/library/courses/hands-on-ansible/table-of-contents
+
+Most of the time there is no need to create a custom module. However, sometimes it's the best (or even only way) to interact with a certain piece of software.
+
+http://blog.toast38coza.me/custom-ansible-module-hello-world/
+
+In this article, I will show you how to use Ansible to generate network device configurations based on a template and a variables file.
+
+https://pynet.twb-tech.com/blog/ansible/ansible-cfg-template.html
+
+VXLAN Programmable Fabric for NX-OS with Ansible
+
+https://www.youtube.com/watch?v=M-Rts20kpnc
+
+Using Ansible for Configuration Management and Deployments
+
+https://linuxacademy.com/devops/training/course/name/using-ansible-for-configuration-management-and-deployments
 
 ### DOCKER
 
@@ -72,3 +91,9 @@ https://www.katacoda.com/courses/docker
 Learn Docker Orchestration using Interactive Browser-Based Labs, Understand real world patterns and approaches in a live environment without any downloads or configuration
 
 https://www.katacoda.com/courses/docker-orchestration
+
+### BASH
+
+This course introduces you to the basic concepts and commands you need to start using Bash on Linux and Mac OS X.
+
+https://app.pluralsight.com/library/courses/introduction-bash-shell-linux-mac-os/table-of-contents
