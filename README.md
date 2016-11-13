@@ -26,6 +26,10 @@ https://www.katacoda.com/courses/git
 
 ### PYTHON
 
+Ok, so python is this thing called a programming language. It takes text that you’ve written (usually referred to as code), turns it into instructions for your computer, and runs those instructions. We’ll be learning how to write code to do cool and useful stuff. No longer will you be bound to use others’ programs to do things with your computer - you can make your own!
+
+http://opentechschool.github.io/python-beginners/en/index.html
+
 Python Fundamentals gets you started with Python, a dynamic language popular for web development, big data, science, and scripting.
 
 https://app.pluralsight.com/library/courses/python-fundamentals/table-of-contents
@@ -42,7 +46,6 @@ http://www.codewars.com/?language=python
 We’ll give you a personalized Learning Plan with the recommended key skills to master. You’ll be able to track your progress against this plan, and add courses whenever you decide you want to learn something new!
 
 https://www.codecademy.com/learn/python
-
 
 My name is Kirk Byers. I am a CCIE (emeritus) in routing and switching and have extensive Python experience. Since 2014, I have been teaching Python and Ansible to network engineers. I also wrote the Netmiko Python library and contributed the IOS driver to NAPALM.
 
@@ -82,6 +85,10 @@ Using Ansible for Configuration Management and Deployments
 
 https://linuxacademy.com/devops/training/course/name/using-ansible-for-configuration-management-and-deployments
 
+A complete guide to configuration management and orchestration with Ansible.
+
+https://www.udemy.com/mastering-ansible/
+
 ### DOCKER
 
 Learn Docker & Containers using Interactive Browser-Based Labs
@@ -97,3 +104,25 @@ https://www.katacoda.com/courses/docker-orchestration
 This course introduces you to the basic concepts and commands you need to start using Bash on Linux and Mac OS X.
 
 https://app.pluralsight.com/library/courses/introduction-bash-shell-linux-mac-os/table-of-contents
+
+### JSON, YAML, AND MARKDOWN
+
+JSON is a syntax for storing and exchanging data.
+
+http://www.w3schools.com/js/js_json_intro.asp
+
+This page provides a basic overview of correct YAML syntax, which is how Ansible playbooks (our configuration management language) are expressed.
+
+http://docs.ansible.com/ansible/YAMLSyntax.html
+
+YAML (/ˈjæməl/, rhymes with camel) is a human-readable data serialization language.
+
+https://en.wikipedia.org/wiki/YAML
+
+Paste in your YAML and click "Go" - we'll tell you if it's valid or not, and give you a nice clean UTF-8 version of it.
+
+http://www.yamllint.com/
+
+If you have ten minutes, you can learn Markdown!
+
+http://www.markdowntutorial.com/
