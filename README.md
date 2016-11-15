@@ -1,3 +1,28 @@
+```
+>>> import this
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+```
+
 ### GIT & GITHUB
 
 This course is for developers and system administrators who want to really understand Git. Whether you just started using Git, or you've been using it every day for months - this course will give you the knowledge you need to become a Git master.
@@ -54,6 +79,10 @@ https://pynet.twb-tech.com
 Welcome to the 3rd Edition of Learn Python the Hard Way.
 
 https://learnpythonthehardway.org/book/
+
+A style guide is about consistency. Consistency with this style guide is important. Consistency within a project is more important. Consistency within one module or function is the most important.
+
+https://www.python.org/dev/peps/pep-0008/
 
 ### ANSIBLE
 
