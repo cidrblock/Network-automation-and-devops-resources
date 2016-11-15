@@ -84,6 +84,10 @@ A style guide is about consistency. Consistency with this style guide is importa
 
 https://www.python.org/dev/peps/pep-0008/
 
+How To Make Friends And Influence APIs
+
+https://realpython.com/blog/python/api-integration-in-python
+
 ### ANSIBLE
 
 What will I learn in this tutorial? You will learn how to use Ansible to configure a Linux host.
@@ -155,3 +159,25 @@ http://www.yamllint.com/
 If you have ten minutes, you can learn Markdown!
 
 http://www.markdowntutorial.com/
+
+### TOOLS
+
+A hackable text editor for the 21st Century
+
+https://atom.io/
+
+Modern software is built on APIs.
+
+https://www.getpostman.com/
+
+Curl is a command line tool for doing all sorts of URL manipulations and transfers, but this particular document will focus on how to use it when doing HTTP requests for fun and profit.
+
+https://curl.haxx.se/docs/httpscripting.html
+
+HTTPie—aitch-tee-tee-pie—is an open source CLI HTTP client that will make you smile.
+
+https://httpie.org/
+
+The OpenAPI Specification is an API description format or API definition language. Basically, an OpenAPI Specification file allow you to describe an API.
+
+https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/
