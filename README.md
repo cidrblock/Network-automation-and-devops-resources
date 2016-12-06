@@ -122,6 +122,12 @@ A complete guide to configuration management and orchestration with Ansible.
 
 https://www.udemy.com/mastering-ansible/
 
+Learn the basics of Ansible automation and configuration management, and more
+
+
+https://www.redhat.com/en/services/training/do007-ansible-essentials-simplicity-automation-technical-overview?sc_cid=70160000001202aAAA
+
+
 ### DOCKER
 
 Learn Docker & Containers using Interactive Browser-Based Labs
