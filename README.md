@@ -138,6 +138,10 @@ Learn Docker Orchestration using Interactive Browser-Based Labs, Understand real
 
 https://www.katacoda.com/courses/docker-orchestration
 
+This course will get learners quickly up to speed with the fundamentals of Docker and containers. The course includes major new features introduced in Docker 1.12, including Swarm mode, services, and stacks.
+
+https://www.pluralsight.com/courses/docker-getting-started
+
 ### BASH
 
 This course introduces you to the basic concepts and commands you need to start using Bash on Linux and Mac OS X.
