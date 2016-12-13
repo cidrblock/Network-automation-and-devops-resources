@@ -191,3 +191,7 @@ https://httpie.org/
 The OpenAPI Specification is an API description format or API definition language. Basically, an OpenAPI Specification file allow you to describe an API.
 
 https://apihandyman.io/writing-openapi-swagger-specification-tutorial-part-1-introduction/
+
+Beautify Your Terminal Experience
+
+http://goodheads.io/2015/09/13/beautify-your-terminal-experience/
